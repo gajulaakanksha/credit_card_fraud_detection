@@ -26,7 +26,7 @@ The dataset contains **31 columns**:
 | Amount   | Transaction amount                                    |
 | Class    | Target variable (0 = Normal, 1 = Fraud)               |
 
-Due to privacy reasons, the original transaction features were transformed using **Principal Component Analysis (PCA)**.
+Due to privacy reasons, the original transaction features were transformed using **Principal Component Analysis (PCA)**. PCA converts original sensitive features into new numerical components.
 
 ---
 
@@ -131,7 +131,7 @@ credit-card-fraud-detection/
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/gajulaakanksha/credit-card-fraud-detection.git
 ```
 
 2. Open the notebook in **Google Colab** or **Jupyter Notebook**
